@@ -1,0 +1,51 @@
+Line 3
+Syntax error, double and single quote
+Found error in VsCode pointing to incorrect line.
+
+Line 39
+Syntax error, missing parentheses
+Found error in VsCode pointing to incorrect line.
+
+Line 4
+Runtime error, misspelled function name (queryselectr)
+Found error in console pointing to incorrect line
+
+Line 41
+Runtime error, missing hashtag on querySelector for variable formEL
+Found error in console pointing to incorrect line.
+
+Line 42
+Logical error, preventDefault not assigned to the event
+Used debugger to see that the eventlistener didn't work as it should.
+
+Line 11
+Runtime error, missing hashtag on querySelector for variable cityInputEl
+Found error in console pointing to incorrect line.
+
+Line 19
+Runtime error, missing hashtag on querySelector for variable temp
+Found error in console pointing to incorrect line.
+
+Line 19
+Logical error, changed quotations-marks to backticks
+Saw in the browser that it displayed the variable as a string
+
+Line 19
+Runtime error, changed data.temp to data.main.temp to get the right information from the API
+Used debugger to see that value of temp was = <value unavailable>
+
+Line 29
+Runtime error, missing hashtag in querySelector for variable messageEl
+Found error in console pointing to incorrect line.
+
+Line 17
+Logical error, used Math.round to round up to nearest whole value.
+Ran the project with different inputs and got unexpected results with long decimalnumbers.
+
+Line 28 - 37
+Logical error, changed arrows and equal operators to make logic work
+Ran the project with the input of "Stockholm" and got an unexpected result.
+
+Line 28
+Logical error, changed order of if statements to display correct output
+Ran the project with different inputs and got unexpected results.
